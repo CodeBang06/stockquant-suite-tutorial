@@ -14,8 +14,8 @@
   
   <img width="155" height="161" alt="github联系" src="https://github.com/user-attachments/assets/311fc480-3949-4306-b088-1602330526fc" />
 
-- 800个聚宽为主的策略源代码
-- mini qmt专业高速行情数据接口
+- 内含800只聚宽为主的策略源代码，助力量化策略源代码研究
+- mini qmt软件，支持专业高速行情数据和交易接口，支持历史 K 线、Tick、行情快照、财务、指数成分，完整connect / order_stock / order_cancel / 查询资金/持仓/委托/成交 / 回调，支持模拟账号和低门槛实盘账号。
 
 # 量化软件及视频教程详细目录
 ## 一、初阶教程《果仁量化交易实盘视频教程》
