@@ -1,0 +1,18 @@
+国金ptrade交易测试客户端下载链接：https://download.gjzq.com.cn/temp/organ/gjzqptrade_ceshi.rar
+api手册：Ptrade：http://180.169.107.9:7766/hub/help/api#API%E6%96%87%E6%A1%A3
+
+国金QMT交易测试客户端下载链接：https://download.gjzq.com.cn/temp/organ/gjzqqmt_ceshi.rar 
+api手册：QMT:https://dict.thinktrader.net/?id=NF25nX
+
+国信iquant(qmt)交易测试客户端下载链接：https://www.guosen.com.cn/gs/software/detail.html?id=43
+
+长城GWT(qmt)策略交易系统客户端下载地址： https://gwt.cgws.com/#/download
+
+由于github不能上传账号密码等，需要的话请加微号(dwchenguang)后索取。
+
+如需开通自己的低门槛低佣金的实盘自动化交易软件权限，也请加微号(dwchenguang)后联系。
+
+也可以直接查看下面的链接获取。
+淘链： https://item.taobao.com/item.htm?ft=t&id=720544256353
+京链： https://item.jd.com/10156540471259.html?sdx=ehi-lLxFuZiE6JnJZIVZiMYktzGTDQIrsmlMsKdDZd2DPe_RLJpZ5XrnpUjlVmKQ
+
