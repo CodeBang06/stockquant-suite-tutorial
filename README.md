@@ -11,8 +11,8 @@
 
 # 多种量化软件+行情数据+交易接口+策略源代码
 - 股市程序化交易量化技术交流群, 圈内大咖量化策略分享，一起感受思维碰撞的力量!
-  
-  <img width="155" height="161" alt="github联系" src="https://github.com/user-attachments/assets/311fc480-3949-4306-b088-1602330526fc" />
+
+  ![github联系人](https://github.com/user-attachments/assets/edc0d650-9601-43ff-97dd-ccb6fdbc78f6)
 
 - 内含800只聚宽为主的策略源代码，助力量化策略源代码研究
 - mini qmt软件，支持专业高速行情数据和交易接口，支持历史 K 线、Tick、行情快照、财务、指数成分，完整connect / order_stock / order_cancel / 查询资金/持仓/委托/成交 / 回调，支持模拟账号和低门槛实盘账号。
