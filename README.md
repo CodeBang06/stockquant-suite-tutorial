@@ -12,7 +12,8 @@
 # 多种量化软件+行情数据+交易接口+策略源代码
 - 股市程序化交易量化技术交流群, 圈内大咖量化策略分享，一起感受思维碰撞的力量!
 
-![github联系人](https://github.com/user-attachments/assets/f0b942c3-de16-42f1-87c0-8a58c86ec8a3)
+<img width="545" height="167" alt="股票1" src="https://github.com/user-attachments/assets/e60fe5cf-c21e-4aba-9494-e956449862ac" />
+
 
 - 内含800只聚宽为主的策略源代码，助力量化策略源代码研究
 - mini qmt软件，支持专业高速行情数据和交易接口，支持历史 K 线、Tick、行情快照、财务、指数成分，完整connect / order_stock / order_cancel / 查询资金/持仓/委托/成交 / 回调，支持模拟账号和低门槛实盘账号。
@@ -261,7 +262,8 @@
 - 8.SQLite参考手册-新
 
 ----------------------------------------------------
-![github联系人](https://github.com/user-attachments/assets/45f1a366-de87-4e66-a15d-8a7c209bee6d)
+<img width="545" height="167" alt="股票1" src="https://github.com/user-attachments/assets/4c0beccf-4837-4111-9d5f-67486adb4662" />
+
 > #### 股市程序化交易大群, 圈内大咖量化策略分享
 > #### 全是干货，无闲聊 ，物以类聚,人以群分，一起感受思维碰撞的力量!
 
